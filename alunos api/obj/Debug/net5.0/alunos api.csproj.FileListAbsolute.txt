@@ -1,0 +1,71 @@
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\appsettings.json
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\alunos api.exe
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\alunos api.deps.json
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\alunos api.runtimeconfig.json
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\alunos api.runtimeconfig.dev.json
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\alunos api.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\ref\alunos api.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\alunos api.pdb
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\Renci.SshNet.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\alek\source\repos\alunos api\alunos api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alek\source\repos\alunos api\alunos api\obj\Debug\net5.0\alunos api.csproj.AssemblyReference.cache
+C:\Users\alek\source\repos\alunos api\alunos api\obj\Debug\net5.0\alunos api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alek\source\repos\alunos api\alunos api\obj\Debug\net5.0\alunos api.AssemblyInfoInputs.cache
+C:\Users\alek\source\repos\alunos api\alunos api\obj\Debug\net5.0\alunos api.AssemblyInfo.cs
+C:\Users\alek\source\repos\alunos api\alunos api\obj\Debug\net5.0\alunos api.csproj.CoreCompileInputs.cache
+C:\Users\alek\source\repos\alunos api\alunos api\obj\Debug\net5.0\alunos api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alek\source\repos\alunos api\alunos api\obj\Debug\net5.0\alunos api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alek\source\repos\alunos api\alunos api\obj\Debug\net5.0\staticwebassets\alunos api.StaticWebAssets.Manifest.cache
+C:\Users\alek\source\repos\alunos api\alunos api\obj\Debug\net5.0\staticwebassets\alunos api.StaticWebAssets.xml
+C:\Users\alek\source\repos\alunos api\alunos api\obj\Debug\net5.0\scopedcss\bundle\alunos api.styles.css
+C:\Users\alek\source\repos\alunos api\alunos api\obj\Debug\net5.0\alunos api.RazorTargetAssemblyInfo.cache
+C:\Users\alek\source\repos\alunos api\alunos api\obj\Debug\net5.0\alunos api.csproj.CopyComplete
+C:\Users\alek\source\repos\alunos api\alunos api\obj\Debug\net5.0\alunos api.dll
+C:\Users\alek\source\repos\alunos api\alunos api\obj\Debug\net5.0\ref\alunos api.dll
+C:\Users\alek\source\repos\alunos api\alunos api\obj\Debug\net5.0\alunos api.pdb
+C:\Users\alek\source\repos\alunos api\alunos api\obj\Debug\net5.0\alunos api.genruntimeconfig.cache
